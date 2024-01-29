@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="20%" height="20%" viewBox="0 0 970 670" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g id="Input-field" serif:id="Input field" transform="matrix(0.997942,0,0,0.979532,-18.9609,-16.652)">
+        <rect x="19" y="17" width="972" height="684" style="fill:none;"/>
+        <clipPath id="_clip1">
+            <rect x="19" y="17" width="972" height="684"/>
+        </clipPath>
+        <g clip-path="url(#_clip1)">
+            <g transform="matrix(1.20592,0,0,1.22858,-81.6953,12.1288)">
+                <path d="M870,307C870,339.011 844.011,365 812,365L171,365C138.989,365 113,339.011 113,307C113,274.989 138.989,249 171,249L812,249C844.011,249 870,274.989 870,307Z" style="fill:rgb(132,132,132);"/>
+            </g>
+            <g transform="matrix(1.20592,0,0,1.22858,32.8667,33.629)">
+                <circle cx="499.5" cy="289.5" r="111.5" style="fill:rgb(132,132,132);stroke:black;stroke-width:28.25px;"/>
+            </g>
+            <g transform="matrix(1.00206,0,0,1.0209,-2.0433,54.7731)">
+                <g transform="matrix(1,-0,-0,1,21,-37)">
+                    <path d="M55,483.514L16,444.514" style="fill:none;stroke:black;stroke-width:13px;stroke-linejoin:miter;stroke-miterlimit:10;"/>
+                    <path d="M917.973,483.5L956.973,444.5" style="fill:none;stroke:black;stroke-width:13px;stroke-linejoin:miter;stroke-miterlimit:10;"/>
+                    <path d="M35.5,464.014L35.5,498.88C34.657,535.934 53.212,553.591 90,553.014L882.975,553C919.762,553.577 938.315,535.92 937.473,498.866L937.473,464" style="fill:none;stroke:black;stroke-width:13px;"/>
+                </g>
+            </g>
+            <g transform="matrix(-1.00206,1.25024e-16,-1.22717e-16,-1.0209,832.614,667.338)">
+                <g transform="matrix(-1,-1.22465e-16,1.22465e-16,-1,811.94,637.027)">
+                    <path d="M735.94,190.514L774.94,229.514" style="fill:none;stroke:black;stroke-width:13px;stroke-linejoin:miter;stroke-miterlimit:10;"/>
+                    <path d="M493.968,190.516L454.968,229.516" style="fill:none;stroke:black;stroke-width:13px;stroke-linejoin:miter;stroke-miterlimit:10;"/>
+                    <path d="M755.44,210.014L755.44,175.148C756.283,138.094 737.728,120.437 700.94,121.014L528.965,121.016C492.178,120.439 473.625,138.096 474.468,175.15L474.468,210.016" style="fill:none;stroke:black;stroke-width:13px;"/>
+                </g>
+            </g>
+            <g transform="matrix(0.78326,0,0,0.797981,191.381,14.7724)">
+                <g transform="matrix(134.02,0,0,134.02,720.998,118)">
+                </g>
+                <text x="408px" y="118px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:134.02px;">Knob</text>
+            </g>
+            <g transform="matrix(0.752521,0,0,0.766664,-157.489,596.475)">
+                <g transform="matrix(134.02,0,0,134.02,1346.67,118)">
+                </g>
+                <text x="408px" y="118px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:134.02px;">Runnable <tspan x="1016.59px 1093.48px 1138.11px " y="118px 118px 118px ">Tra</tspan>ck</text>
+            </g>
+        </g>
+    </g>
+</svg>
