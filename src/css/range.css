@@ -81,7 +81,7 @@ input[type=range].isu::-webkit-slider-runnable-track {
 	padding: 0;
 }
 
-input[type=range].isu:focus::-webkit-slider-runnable-track {
+input[type=range].isu:focus-visible::-webkit-slider-runnable-track {
 	background: var(--range-runnable-track-focus-background);
 	height: var(--range-runnable-track-focus-height);
 	border-radius: var(--range-runnable-track-focus-border-radius);
@@ -102,7 +102,7 @@ input[type=range].isu::-moz-range-track {
 	padding: 0;
 }
 
-input[type=range].isu:focus::-moz-range-track {
+input[type=range].isu:focus-visible::-moz-range-track {
 	background: var(--range-runnable-track-focus-background);
 	height: var(--range-runnable-track-focus-height);
 	border-radius: var(--range-runnable-track-focus-border-radius);
@@ -138,7 +138,7 @@ input[type=range].isu:hover::-webkit-slider-thumb {
 	outline-offset: var(--range-thumb-hover-outline-offset);
 }
 
-input[type=range].isu:focus::-webkit-slider-thumb {
+input[type=range].isu:focus-visible::-webkit-slider-thumb {
 	margin-top: calc((-1 * var(--range-runnable-track-focus-border-size)) + (-0.5 * var(--range-thumb-focus-size)) + (0.5 * var(--range-runnable-track-focus-height)));
 	background: var(--range-thumb-focus-background);
 	width: var(--range-thumb-focus-size);
@@ -182,7 +182,7 @@ input[type=range].isu:hover::-moz-range-thumb {
 	outline: var(--range-thumb-hover-outline);
 }
 
-input[type=range].isu:focus::-moz-range-thumb {
+input[type=range].isu:focus-visible::-moz-range-thumb {
 	background: var(--range-thumb-focus-background);
 	width: var(--range-thumb-focus-size);
 	height: var(--range-thumb-focus-size);
